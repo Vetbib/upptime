@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/bib.vetmed.fu-berlin.de",
     "slug": "publikationsdatenbank",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 940,
     "timeDay": 846,
     "timeWeek": 924,
     "timeMonth": 940,
     "timeYear": 940,
-    "dailyMinutesDown": {
-      "2021-01-06": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Anmeldung zu Seminaren",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/bib.vetmed.fu-berlin.de",
     "slug": "anmeldung-zu-seminaren",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 170,
     "timeDay": 154,
     "timeWeek": 161,
     "timeMonth": 170,
     "timeYear": 170,
-    "dailyMinutesDown": {
-      "2021-01-06": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lernplatzresevierung",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/bib.vetmed.fu-berlin.de",
     "slug": "lernplatzresevierung",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 155,
     "timeWeek": 166,
     "timeMonth": 174,
     "timeYear": 174,
-    "dailyMinutesDown": {
-      "2021-01-06": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Veranstaltungsmeldungen",
@@ -65,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/bib.vetmed.fu-berlin.de",
     "slug": "veranstaltungsmeldungen",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 312,
     "timeDay": 273,
     "timeWeek": 295,
     "timeMonth": 312,
     "timeYear": 312,
-    "dailyMinutesDown": {
-      "2021-01-06": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
