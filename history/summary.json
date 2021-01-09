@@ -4,18 +4,20 @@
     "url": "https://bib.vetmed.fu-berlin.de/pubdb/pub/search/?start=0&count=100",
     "icon": "https://favicons.githubusercontent.com/bib.vetmed.fu-berlin.de",
     "slug": "publikationsdatenbank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 932,
-    "timeDay": 832,
-    "timeWeek": 911,
-    "timeMonth": 932,
-    "timeYear": 932,
-    "dailyMinutesDown": {}
+    "time": 905,
+    "timeDay": 715,
+    "timeWeek": 838,
+    "timeMonth": 905,
+    "timeYear": 905,
+    "dailyMinutesDown": {
+      "2021-01-09": 0
+    }
   },
   {
     "name": "Anmeldung zu Seminaren",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 149,
-    "timeWeek": 161,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "time": 168,
+    "timeDay": 156,
+    "timeWeek": 158,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 155,
-    "timeWeek": 166,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "time": 171,
+    "timeDay": 148,
+    "timeWeek": 160,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
+    "time": 306,
     "timeDay": 273,
-    "timeWeek": 295,
-    "timeMonth": 309,
-    "timeYear": 309,
+    "timeWeek": 285,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   }
 ]
