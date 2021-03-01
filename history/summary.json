@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 831,
-    "timeDay": 538,
-    "timeWeek": 745,
-    "timeMonth": 811,
-    "timeYear": 831,
+    "time": 829,
+    "timeDay": 685,
+    "timeWeek": 718,
+    "timeMonth": 818,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2021-01-24": 40,
       "2021-01-09": 93
@@ -26,16 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/bib.vetmed.fu-berlin.de",
     "slug": "anmeldung-zu-seminaren",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 148,
-    "timeDay": 120,
-    "timeWeek": 141,
+    "uptimeYear": "99.96%",
+    "time": 147,
+    "timeDay": 116,
+    "timeWeek": 132,
     "timeMonth": 144,
-    "timeYear": 148,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2021-01-24": 40
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
+    "time": 153,
     "timeDay": 124,
-    "timeWeek": 147,
+    "timeWeek": 138,
     "timeMonth": 150,
-    "timeYear": 154,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 209,
-    "timeWeek": 256,
+    "time": 263,
+    "timeDay": 205,
+    "timeWeek": 237,
     "timeMonth": 253,
-    "timeYear": 264,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   }
 ]
