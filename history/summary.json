@@ -4,10 +4,10 @@
     "url": "https://bib.vetmed.fu-berlin.de/pubdb/pub/search/?start=0&count=100",
     "icon": "https://favicons.githubusercontent.com/bib.vetmed.fu-berlin.de",
     "slug": "publikationsdatenbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 834,
@@ -16,6 +16,7 @@
     "timeMonth": 870,
     "timeYear": 834,
     "dailyMinutesDown": {
+      "2021-05-11": 2,
       "2021-03-18": 18,
       "2021-01-24": 40,
       "2021-01-09": 93
@@ -26,10 +27,10 @@
     "url": "https://bib.vetmed.fu-berlin.de/anmeldung/",
     "icon": "https://favicons.githubusercontent.com/bib.vetmed.fu-berlin.de",
     "slug": "anmeldung-zu-seminaren",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 147,
@@ -38,6 +39,7 @@
     "timeMonth": 148,
     "timeYear": 147,
     "dailyMinutesDown": {
+      "2021-05-11": 1,
       "2021-01-24": 40
     }
   },
@@ -46,10 +48,10 @@
     "url": "https://bib.vetmed.fu-berlin.de/platzreservierung/",
     "icon": "https://favicons.githubusercontent.com/bib.vetmed.fu-berlin.de",
     "slug": "lernplatzresevierung",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
@@ -57,16 +59,18 @@
     "timeWeek": 149,
     "timeMonth": 154,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-11": 1
+    }
   },
   {
     "name": "Veranstaltungsmeldungen",
     "url": "https://bib.vetmed.fu-berlin.de/veranstaltungen/",
     "icon": "https://favicons.githubusercontent.com/bib.vetmed.fu-berlin.de",
     "slug": "veranstaltungsmeldungen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,6 +79,8 @@
     "timeWeek": 258,
     "timeMonth": 269,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-11": 0
+    }
   }
 ]
